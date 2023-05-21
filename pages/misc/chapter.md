@@ -21,6 +21,9 @@ render:
         which_date: date
         nested_children: true
 published: true
+taxonomy:
+    category: docs
+visible: true
 ---
 
 ...
