@@ -10,3 +10,6 @@ show_clickthrough: true
 Offering sensible opinions regarding artificial intelligence and cyborgs.
 
 _Visit again on May 24th for updates_
+
+Email: snick512@pm.me
+Twitter: [@snick512](https://twitter.com/snick512)
