@@ -20,6 +20,7 @@ render:
         date: false
         which_date: date
         nested_children: true
+published: true
 ---
 
 ...
