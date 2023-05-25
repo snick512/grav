@@ -11,7 +11,7 @@ Offering sensible opinions regarding artificial intelligence and cyborgs.
 
 _Visit again on May 30th for updates_
 
-Having trouble with one server where a copy of my existing articles were stored. Once it's accessible the content will be copied over.
+Having trouble with one server where a copy of my existing articles were stored. Once it's accessible the content will be copied over. This is exactly why I'm moving towards full version tracking for blogs.
 
 Email: snick512@pm.me
 
