@@ -17,4 +17,4 @@ Email: snick512@pm.me
 
 Twitter: [@snick512](https://twitter.com/snick512)
 
-This could be a collective effort! Contribute to the [repo](https://github.com/snick512/grav)!
+This could be a collective effort! Contact if interested.
