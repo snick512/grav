@@ -10,6 +10,7 @@ show_clickthrough: true
 Offering sensible opinions regarding artificial intelligence and cyborgs.
 
 _Visit again on May 30th for updates_
+
 Having trouble with one server where a copy of my existing articles were stored. Once it's accessible the content will be copied over.
 
 Email: snick512@pm.me
