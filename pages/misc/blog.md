@@ -22,8 +22,9 @@ render:
         nested_children: true
 published: true
 taxonomy:
-    category: docs
-visible: true
+    category:
+        - docs
+visible: false
 ---
 
 ...
