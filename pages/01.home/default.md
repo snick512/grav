@@ -9,7 +9,9 @@ show_clickthrough: true
 
 Offering sensible opinions regarding artificial intelligence and cyborgs.
 
-Things have been copied over! The [blog](/blog) is where a short list may be found currently. It'll expand over time.  GH: [https://github.com/snick512/grav](https://github.com/snick512/grav)
+Things have been copied over! The [blog](/blog) is where a short list may be found currently. It'll expand over time.  
+
+GH: [https://github.com/snick512/grav](https://github.com/snick512/grav)
 
 Email: snick512@pm.me
 
