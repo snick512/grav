@@ -14,6 +14,9 @@ taxonomy:
         - Interview
         - Twitter
 ---
+<iframe width="400" height="500" frameborder="0" src="https://www.bbc.com/news/av-embeds/65249139"></iframe>
+[Video from the BBC](https://www.bbc.com/news/av/world-us-canada-65249139)
+
 
 Consistently interrupting Musk, asking the same questions in different form, presumably because the answer given wasn't wanted. 
 
