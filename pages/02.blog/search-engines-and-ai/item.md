@@ -5,6 +5,16 @@ allowCSS: default
 allowJS: default
 show_header_image: false
 show_clickthrough: true
+taxonomy:
+    category:
+        - 'Artificial Intelligence'
+    tag:
+        - Google
+        - Bing
+        - Bard
+        - ChatGPT
+        - GPT
+        - 'Feeling Lucky'
 ---
 
 Search engines are already powered by several algorithms to stay updated and relevant - relevant to the user. And Google - largely - does the best job at this. When I search for something, its engine understands the likelihood of what I "actually" want to see v. what may have first come up on its table. In other words, it's not Duck Duck Go, not that I dislike DDG, it's just not for me.
