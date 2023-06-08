@@ -11,9 +11,10 @@ So, for the longest time I relied on a third-party jabber host and this was prob
 
 Skipping forward to today, I am shopping for XMPP/Jabber servers. So far I've tried:
 
-Prosody
-ejabberd
-Openfire
+- Prosody
+- ejabberd
+- Openfire
+
 It's looking as if prosody will be the winner but we'll see!
 
 Updated April 5: Prosody is the winner!
