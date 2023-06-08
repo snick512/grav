@@ -7,12 +7,12 @@ show_header_image: false
 show_clickthrough: true
 taxonomy:
     category:
-        - Entertainment
+        - Politics
     tag:
-        - 'Elon Musk'
-        - BBC
-        - Interview
-        - Twitter
+        - OpenAI
+        - ChatGPT
+        - Conservative
+        - 'Free Speech'
 ---
 Source: [https://www.foxbusiness.com/technology/openai-forces-shutdown-conservative-chatgpt-powered-ai-bot-creator-claims](https://www.foxbusiness.com/technology/openai-forces-shutdown-conservative-chatgpt-powered-ai-bot-creator-claims)
 
