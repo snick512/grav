@@ -5,6 +5,14 @@ allowCSS: default
 allowJS: default
 show_header_image: false
 show_clickthrough: true
+taxonomy:
+    category:
+        - Entertainment
+    tag:
+        - 'Elon Musk'
+        - BBC
+        - Interview
+        - Twitter
 ---
 
 Consistently interrupting Musk, asking the same questions in different form, presumably because the answer given wasn't wanted. 

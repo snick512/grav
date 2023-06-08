@@ -5,6 +5,12 @@ allowCSS: default
 allowJS: default
 show_header_image: false
 show_clickthrough: true
+taxonomy:
+    category:
+        - Cyborg
+    tag:
+        - Eyes
+        - Retnia
 ---
 
 > Wikipedia: "The Argus implant's primary external element is a digital camera mounted on eyeglass frames, which obtains images of the user's surroundings; signals from the camera are transmitted wirelessly to a computerised image processor. The processor is in turn connected by cables to the implant itself, which is surgically implanted on the surface of the person's retina and tacked into place. The implant consists of 60 electrodes, each 200 microns in diameter. [3] [5]" - PDF, Wikipedia
