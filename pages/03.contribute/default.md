@@ -1,11 +1,11 @@
-```yaml
+---
 title: Contribute
 body_classes: 'title-center title-h1h2'
 allowCSS: default
 allowJS: default
 show_header_image: false
 show_clickthrough: true
-```
+---
 
 If you'd like to contribute, you may do so by obtaining a Github account, forking and then sending pull requests with your work. The structure in creating posts and pages is the same as Grav itself, except you may use your favorite text editor. I use a mixture of the Grav admin UI, Visual Studio Code and nano (yes, nano).
 
@@ -33,7 +33,6 @@ pages/
     ├── blog.md
     └── test
         └── item.md
-
 ```
 
 Under /blog you have many sub directories with their own item.md. You would create a new directory with "title-here" followed by an item.md. In the item.md we would have:
