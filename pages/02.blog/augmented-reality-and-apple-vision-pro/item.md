@@ -36,7 +36,7 @@ Augmented reality glasses aren't exactly anything new, but as usual it took a ve
 
 ## Practical Augmented Reality applications
 
-Namely, and maybe I'm a bit biased here--accessiblity plays a major role in AR. Microsoft Seeing AI is notable to me due to how smooth it operates. I'd like this to be streamlined to a pair of glasses. AR is THIS straightforward. 
+Namely, and maybe I'm a bit biased here--accessibility plays a major role in AR. Microsoft Seeing AI is notable to me due to how smooth it operates. I'd like this to be streamlined to a pair of glasses. AR is THIS straightforward. 
 
 Let me walk into a grocery store with my AI infused vision--enabling me to see prices from afar, alert me of wanted items, price changes and much....much more. There's nearly no end here.
 
