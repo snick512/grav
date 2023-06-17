@@ -7,15 +7,17 @@ show_header_image: false
 show_clickthrough: true
 taxonomy:
     category:
-        - Augmented Reality
+        - 'Augmented Reality'
     tag:
         - AR
         - VR
         - Apple
         - Wall-E
         - Drones
+media_order: 'Apple-WWCD23-Vision-Pro-ultra-high-res-display-system-230605.jpg.large_2x[1].jpg'
 ---
 
+![Apple-WWCD23-Vision-Pro-ultra-high-res-display-system-230605.jpg.large_2x%5B1%5D](Apple-WWCD23-Vision-Pro-ultra-high-res-display-system-230605.jpg.large_2x%5B1%5D.jpg "Apple-WWCD23-Vision-Pro-ultra-high-res-display-system-230605.jpg.large_2x%5B1%5D")
 > "That's the future we're driving towards — with everyone in the floating chairs, drinking their food out of straws, and constant 24/7 entertainment," Dorsey said in an interview this week with "Breaking Points" hosts Krystal Ball and Saagar Enjeti on Monday --[Business Insider](https://www.businessinsider.in/tech/news/jack-dorsey-worries-apple-vision-pro-will-turn-us-all-into-wall-e-characters-glued-to-chairs-and-plugged-into-constant-entertainment/articleshow/100990615.cms)
 
 *Quick note: I personally prefer Google Glass and Magic Leap designs regarding AR. Their designs should be used as baselines for practical applications.*
